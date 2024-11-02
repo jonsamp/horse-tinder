@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3c9e4868-952e-42c5-80c0-f0d308450df1"
+      }
+    },
+    "owner": "jonworkflows"
   }
 }
